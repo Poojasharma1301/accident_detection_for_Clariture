@@ -6,6 +6,7 @@ An accedent detection system is used to detect the accident using ipcam at the t
 ## Tech-Used :
 YoloV3<br>
 ## To Run:
-1) python weapon_detection.py <br>
+1)Download dataset : https://drive.google.com/file/d/1l-ZdjSkdmrfUPV1MTBaNkXOjbRxX7OX4/view?usp=share_link<br>
+2)python weapon_detection.py <br>
 ## Conclusion : 
 So here by using Accident detection system we aims to alert the nearby medical center about the accident to provide immediate medical aid.
